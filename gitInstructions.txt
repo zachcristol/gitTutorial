@@ -1,1 +1,4 @@
-1- make a git repository
+1- make a git repository    git init in the repo we want
+2- git add .
+3- git commit -m"your message here"
+
